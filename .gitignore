@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# SAP NetWeaver RFC configuration or library files (Which can't be redistributed)
+sap/nwrfcsdk/lib/*
+sapnwrfc.ini

@@ -1,0 +1,23 @@
+{
+  "name": "rfc-sdk-experiment",
+  "version": "1.0.0",
+  "description": "Experiement with the SAP RFCSDK from Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jung-thomas/rfc-sdk-experiment.git"
+  },
+  "author": "Thomas Jung <Thomas.Jung@sap.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jung-thomas/rfc-sdk-experiment/issues"
+  },
+  "homepage": "https://github.com/jung-thomas/rfc-sdk-experiment#readme",
+  "dependencies": {
+    "node-rfc": "^2.5.0"
+  }
+}
